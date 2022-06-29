@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">7 Minute Workout</string>
+    <string name="image">Start image</string>
+    <string name="get_ready">Get ready for</string>
+    <string name="dialog_confirm_text">Are you sure?</string>
+    <string name="dialog_quit_info">This will stop your workout. You\'ve come this far, are you sure you want to quit?</string>
+    <string name="healthy_advice">Your weight is healthy, keep it how it is</string>
+    <string name="overweight_advice">You are overweight, try to eat fewer calorie foods and exercise more</string>
+    <string name="obese_advice">You are obese, you must eat fewer calories and exercise more</string>
+    <string name="underweight_advice">You are underweight, try to eat more calories</string>
+</resources>
